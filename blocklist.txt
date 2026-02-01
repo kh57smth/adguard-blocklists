@@ -1,0 +1,111 @@
+##############################
+# Advertising Networks
+##############################
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+||adnxs.com^
+||adsafeprotected.com^
+||advertising.com^
+||moatads.com^
+||taboola.com^
+||outbrain.com^
+
+##############################
+# Tracking & Analytics
+##############################
+||google-analytics.com^
+||analytics.google.com^
+||stats.g.doubleclick.net^
+||scorecardresearch.com^
+||quantserve.com^
+||crwdcntrl.net^
+||branch.io^
+||mixpanel.com^
+||segment.io^
+
+##############################
+# Social Media Tracking Pixels
+##############################
+||facebook.net^
+||connect.facebook.net^
+||graph.facebook.com^
+||tiktok-analytics.com^
+||analytics.tiktok.com^
+||snapads.com^
+
+##############################
+# Malware / Scam / Phishing
+##############################
+||malwarebytes.com^$badfilter
+||malwaredomainlist.com^
+||malwaredomains.com^
+||phishing.army^
+||spamhaus.org^
+||ransomwaretracker.abuse.ch^
+
+##############################
+# Push Notification Spam
+##############################
+||onesignal.com^
+||pushengage.com^
+||pushwoosh.com^
+||pushnami.com^
+
+##############################
+# Mobile App Telemetry
+##############################
+||app-measurement.com^
+||adjust.com^
+||appsflyer.com^
+||kochava.com^
+||firebase-settings.crashlytics.com^
+||crashlytics.com^
+
+##############################
+# Crypto Miners
+##############################
+||coinhive.com^
+||coinhiveproxy.com^
+||crypto-loot.com^
+||webminepool.com^
+
+##############################
+# Adult Content (Optional)
+##############################
+||pornhub.com^
+||xvideos.com^
+||xnxx.com^
+||redtube.com^
+||youporn.com^
+
+##############################
+# Known Spam / Popups
+##############################
+||popads.net^
+||popcash.net^
+||propellerads.com^
+||onclickads.net^
+||adf.ly^
+||shorte.st^
+
+##############################
+# Telemetry (Windows / Microsoft)
+##############################
+||telemetry.microsoft.com^
+||vortex.data.microsoft.com^
+||settings-win.data.microsoft.com^
+||watson.telemetry.microsoft.com^
+
+##############################
+# Telemetry (Apple)
+##############################
+||metrics.apple.com^
+||metrics.icloud.com^
+
+##############################
+# Telemetry (Android / Google)
+##############################
+||firebaseinstallations.googleapis.com^
+||firebase-settings.googleapis.com^
+||firebasecrashlytics.googleapis.com^
