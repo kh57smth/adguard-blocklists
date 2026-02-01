@@ -1,0 +1,60 @@
+# Version <VERSION>
+
+## Summary
+Brief overview of what this release includes and why it matters.
+
+Example:
+This release updates the DNS blocklist with new domains, refinements, and safety improvements. It is optimized for AdGuard Home and designed to maintain strong privacy protection without breaking streaming, gaming, or smart‑home services.
+
+---
+
+## Changes
+
+### Added
+- New domains or categories introduced in this version.
+- Example:
+  - Added additional ad network domains.
+  - Added new telemetry and analytics hosts.
+  - Added phishing/malware indicators.
+
+### Updated
+- Improvements or refinements to existing entries.
+- Example:
+  - Updated tracking domain patterns.
+  - Improved categorization and formatting.
+  - Adjusted rules for better compatibility.
+
+### Removed
+- Domains or rules removed for safety or redundancy.
+- Example:
+  - Removed deprecated or inactive domains.
+  - Removed duplicates.
+  - Removed entries causing false positives.
+
+---
+
+## Notes
+- Important compatibility or behavior details.
+- Example:
+  - Improved compatibility with Roku, Samsung TV, and SmartThings.
+  - No breaking changes expected.
+  - This version has been validated for syntax, duplicates, and formatting.
+
+---
+
+## Files Included
+- `blocklist.txt` — master DNS blocklist  
+- Additional files if applicable
+
+---
+
+## Recommended Use
+Use the versioned URL for stable, predictable behavior:
+https://raw.githubusercontent.com/kh57smth/adguard-blocklists/ (raw.githubusercontent.com in Bing)<VERSION>/blocklist.txt
+
+Replace `<VERSION>` with the tag for this release.
+
+---
+
+## Release Date
+<YYYY-MM-DD>
